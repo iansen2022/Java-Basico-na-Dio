@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperadoresTernario",
+            "request": "launch",
+            "mainClass": "OperadoresTernario",
+            "projectName": "tipos-variaveis_6bc2da60"
+        },
+        {
+            "type": "java",
             "name": "OperadoresBoolean",
             "request": "launch",
             "mainClass": "OperadoresBoolean",
